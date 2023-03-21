@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b92d0f0b189c8894e986ae4c35030e53
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - rootVisualTree: {fileID: 9197481963319205126, guid: d4ca01cc5e9c00441a032ad0d9eee339, type: 3}
+  - rootsStyleSheet: {fileID: 7433441132597879392, guid: bcd2d9c312dbf364dbc307e60f22e9d3, type: 3}
+  - recipesListConfig: {fileID: 11400000, guid: 12cba19df06629e428349f65f304c582, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

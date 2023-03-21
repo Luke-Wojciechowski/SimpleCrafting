@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ba41563bedb0dd4395aa7138d4728a0, type: 3}
+  m_Name: ClayConfig
+  m_EditorClassIdentifier: 
+  itemName: Clay
+  recipe:
+    rid: 5043738509034651650
+  references:
+    version: 2
+    RefIds:
+    - rid: 5043738509034651650
+      type: {class: RecipeConfig, ns: CheeseCraft.Script, asm: Assembly-CSharp}
+      data:
+        neededItems:
+        - {fileID: 11400000, guid: d196277bd8139924d9edb457e130616e, type: 2}
+        - {fileID: 11400000, guid: 04cda51a97bfa154aaba927ee3a8d56b, type: 2}
+        - {fileID: 11400000, guid: d196277bd8139924d9edb457e130616e, type: 2}
